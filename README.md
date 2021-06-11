@@ -1,4 +1,21 @@
-# Getting Started with Create React App
+# To run the file
+
+## npm i
+## npm run test:part3
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+#Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
