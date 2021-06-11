@@ -1,0 +1,48 @@
+.footer-links {
+  position: absolute;
+  height: 50px;
+  bottom: 0px;
+  padding-bottom: 30px;
+  padding-top: 20px;
+  width: 100%;
+  background: rgb(14, 14, 14);
+  display: flex;
+}
+
+.footer-links a {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #fff;
+  text-decoration: none;
+  padding: 10px;
+}
+
+.footer-links a:hover {
+  color: #fff;
+  text-decoration: none;
+  border-bottom: 2px solid rgb(30, 165, 255);
+}
+
+
+.home-link {
+  text-align: center;
+  flex-basis: 15%;
+  margin: auto;
+}
+
+a.topic {
+  padding: 10px 10px 20px 10px;
+  text-align: center;
+
+}
+
+.topic-links {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  margin: 10px auto;
+}
+
+.fa-home:before {
+  content: "\f015";
+  color: rgb(255, 255, 255);
+}

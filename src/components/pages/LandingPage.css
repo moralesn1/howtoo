@@ -1,0 +1,55 @@
+.landingpage {
+  height: 100vh;
+  background-color: #1A2C40;
+}
+
+.landingpage-row {
+  display: flex;
+}
+
+
+.landingpage-col.one {
+  flex-basis: 40%;
+}
+
+.landingpage-col.one h1 {
+  margin-top: 200px;
+  margin-left: 150px;
+  color: #FFFFFF;
+}
+
+.landingpage-col.one img {
+  margin-top: 100px;
+  margin-left: 150px;
+  margin-bottom: 100px;
+  height: 100px;
+  width: 400px;
+}
+
+.landingpage-col.one a {
+  color: white;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.landingpage-col.one a:hover {
+  color: rgb(209, 209, 209);
+}
+
+.landingpage-col.two {
+  flex-basis: 60%;
+}
+
+.landingpage-image img {
+  width: 700px;
+  height: 700px;
+  top: 100px;
+  opacity: 0.9;
+  transform: rotate(14deg)
+}
+
+.fa-hand-point-right:before {
+  content: "\f0a4";
+  color: white;
+  margin-right: 15px;
+}

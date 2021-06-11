@@ -1,0 +1,10 @@
+.background-image {
+  position: absolute;
+  z-index: -1;
+  object-fit: cover;
+  height: 100%;
+}
+
+.container img {
+  height: 100%;
+}
